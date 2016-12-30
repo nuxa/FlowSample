@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+.DS_store
+.env
+public/uploads/
+vendor/bundle
